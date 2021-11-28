@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 const room = require('./roomDB');
 const hotel = require('./hotelDB');
-const user = require('./userDB');
+const user = require('./user');
 
 const BookingSchema = new Schema({
     hotel: {

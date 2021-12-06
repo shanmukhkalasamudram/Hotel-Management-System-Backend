@@ -63,8 +63,8 @@ https://go.postman.co/workspace/temp~50a672fb-e37d-4833-bda7-713001c7b9aa/collec
 
 ### User Module 
 
-| URL                             | Method | Description                                              | Content (Body)          |
-|---------------------------------|:-----------:|----------------------------------------------------------|-------------------------|
+| URL                             | Method | Description                                              | 
+|---------------------------------|:-----------:|----------------------------------------------------------|
 | /book             |     POST    | Book a hotel          | 
 | /book             |     GET     | Get all hotels            |  
 
